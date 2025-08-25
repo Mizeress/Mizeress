@@ -6,7 +6,7 @@ I am a student at Wright State University studying for a BACS in Computer Scienc
 [![My Skills](https://skillicons.dev/icons?i=java,cs,js,opencv,postman,py,spring,css,html,linux&perline=5)](https://skillicons.dev)
 
 
-### Pending Projects:
+# Pending Projects:
   - Background randomizer: A simple Java app to randomize my desktop's background. This code will call a batch file or powershell script that will accept an image and change the desktop background. The Java code will house a UI to change settings such as time intervals, whether the image is randomized from a specified directory or pulled from an API, and similar settings. 
 
   - Gun Turret Simulation: Currently, I am volunteering at the [Champaign Aviation Museum](https://www.champaignaviationmuseum.org/). At this museum I have been tasked with motion tracking a .50 cal plane turret and creating a simulation using this gun as a controller. To do this, I have used C++ to expose OpenCV code to Unity used to track ArUco markers.
