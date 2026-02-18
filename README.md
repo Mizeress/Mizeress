@@ -3,7 +3,7 @@
 I am a student at Wright State University studying for a BACS in Computer Science. I enjoy camping, hiking, making music, playing games, and reading. Lately I have been volunteering at the [Champaign Aviation Museum](https://www.champaignaviationmuseum.org/)  to help out with some of their programming needs! 
 
 # My Skills:
-[![My Skills](https://skillicons.dev/icons?i=java,cs,js,opencv,postman,py,spring,css,html,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,js,opencv,postman,py,spring,css,html,linux&perline=5,docker,aws,c++)](https://skillicons.dev)
 
 
 # Pending Projects:
